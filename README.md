@@ -1,2 +1,2 @@
 # Landing_Page-
-Developed a landing page using HTML5  and CSS3
+Developed a Landing Page Unsig Html5 and Css3 and Some basic editors like vscode
